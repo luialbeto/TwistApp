@@ -7,10 +7,16 @@ Criado em React, responsivo e com fácil visualização
 
 # Time
 Time formado por 5 integrantes:
+
 Luiz Araujo - Front-End
+
 Paulo Silva - Back-End
+
 Larissa     - UX
+
 Isabella    - Designer
+
 Gleice      - Business
+
 
 #### https://youtu.be/EgV-AdYa2jg
