@@ -10,4 +10,4 @@ function ManualAsk() {
   );
 }
 
-export default AudAsk;
+export default ManualAsk;
