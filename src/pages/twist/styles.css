@@ -1,0 +1,27 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  /* display: flex; */
+  /* flex-direction: row; */
+}
+
+.mic {
+  /* border-color: red; */
+  background: red;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 150px;
+  line-height: 170px;
+  vertical-align: middle;
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+}
+
+.mic img {
+  width: 40px;
+  height: 40;
+}
