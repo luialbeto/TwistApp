@@ -5,10 +5,11 @@ import Home from './pages/Home';
 import AppScreen from './pages/AppScreen';
 import Login from './pages/Login';
 import Calendar from './pages/Calendar';
-import Hour from '../Hour';
-import Map from './pages/Map';
-import Sucess from './pages/Sucess';
-import Twist from './pages/Twist';
+import hour from './pages/hour';
+import map from './pages/map';
+import sucess from './pages/sucess';
+import twist from './pages/twist';
+import search from './pages/seach'
 import './App.css';
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
             <Route path="/sucess" component={Sucess} />
             <Route path="/twist" component={Twist} />
             <Route path="/calendar" component={Calendar} />
+            <Route path="/search" component={search} />
           </Switch>
         </BrowserRouter>
       </Provider>
