@@ -13,7 +13,7 @@ export default function twist() {
       <h2 id="title">Qual Serviço Deseja?</h2>
       <img id="mic" src={mic} alt=""/>
       <br/>
-      <Link to="/twist"><a>não posso falar no momento</a></Link>
+      <Link to="/search"><a>não posso falar no momento</a></Link>
     </div>
   );
 }
