@@ -1,14 +1,14 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Provider from './context/Provider';
-import Home from './pages/home';
-import appScreen from './pages/appScreen';
-import Login from './pages/login';
+import Home from './pages/Home';
+import AppScreen from './pages/AppScreen';
+import Login from './pages/Login';
 import Calendar from './pages/Calendar';
-import hour from './pages/hour';
-import map from './pages/map';
-import sucess from './pages/sucess';
-import twist from './pages/twist';
+import Hour from '../Hour';
+import Map from './pages/Map';
+import Sucess from './pages/Sucess';
+import Twist from './pages/Twist';
 import './App.css';
 
 function App() {
@@ -19,11 +19,11 @@ function App() {
           <Switch>
             <Route exact path="/" component={Home} />
             <Route path="/login" component={Login} />
-            <Route path="/appScreen" component={appScreen} />
-            <Route path="/hour" component={hour} />
-            <Route path="/map" component={map} />
-            <Route path="/sucess" component={sucess} />
-            <Route path="/twist" component={twist} />
+            <Route path="/appScreen" component={AppScreen} />
+            <Route path="/hour" component={Hour} />
+            <Route path="/map" component={Map} />
+            <Route path="/sucess" component={Sucess} />
+            <Route path="/twist" component={Twist} />
             <Route path="/calendar" component={Calendar} />
           </Switch>
         </BrowserRouter>

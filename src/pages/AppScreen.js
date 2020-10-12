@@ -8,7 +8,7 @@ function appScreen() {
     <div>
       <div className="logo-screen">
         <Link to="login">
-          Clientes
+          TWIST
           {/* <img alt="App Screen" src={logoScreen} /> */}
         </Link>
       </div>
