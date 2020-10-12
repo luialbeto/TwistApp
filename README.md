@@ -2,7 +2,7 @@
 
 #### TWIST APP
 
-## App criado na maratona HACKATHON GETNET (SHAWEE) para solucionar dor do MEI
+## App criado na maratona HACKATHON GETNET (SHAWEE) para solucionar dor do MEI em período pós-quarentena
 Criado em React, responsivo e com fácil visualização
 
 # Time
