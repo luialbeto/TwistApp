@@ -1,5 +1,5 @@
 body {
-  background-image: url('../images/LOGO\ TWIST.jpg');
+  /* background-image: url('../images/LOGO\ TWIST.jpg'); */
   background-color: rgba(196, 204, 196, 0.452);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -40,15 +40,12 @@ header {
   z-index: 2;
 }
 .app-screen {
-  /* LOGO TWIST 1 */
-
   position: absolute;
   width: 268.68px;
   height: 87px;
   left: 26px;
   top: 240px;
-
-  background: url(images/LOGO\ TWIST.jpg);
+  /* background: url(images/LOGO\ TWIST.jpg); */
 }
 .btn-google {
   position: absolute;
@@ -56,25 +53,32 @@ header {
   right: 0%;
   top: 0%;
   bottom: 0%;
-
-  /* Red */
-
   background: #eb5757;
   border-radius: 200px;
 }
 .btn-face {
-  /* Rectangle 5 */
-
   position: absolute;
   left: 0%;
   right: 0%;
   top: 0%;
   bottom: 0%;
-
-  /* Red */
-
-  background: #eb5757;
-  border-radius: 200px;
+  background-color: #4267b2;
+  border: 1px solid #ccd0d5;
+  border-color: #29487d;
+  border-radius: 2px;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 18px;
+  margin: 0;
+  padding: 2px 6px;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: none;
+  vertical-align: top;
+  white-space: nowrap;
 }
 .loading {
   background-color: rgba(78, 69, 69, 0.377);
