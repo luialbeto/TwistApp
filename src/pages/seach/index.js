@@ -1,10 +1,11 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom'
-import mic from '../../assets/mic.png';
-import logo from '../../assets/logo.png'
-import './styles.css';
 
-function twist() {
+import logo from '../../assets/tornado.svg'
+import './styles.css'
+
+export default function search() {
+ console.log('ok')
   return (
     <div className="container">
       <img src={logo} alt=""/>
@@ -12,9 +13,7 @@ function twist() {
       <h2>Qual Serviço Deseja?</h2>
       <input type="text" name="services" placeholder="Serviço"/>
       <br/>
-      <Link to="/twist"><a>não posso falar no momento</a></Link>
+      <Link to="/twist"><button>Proximo</button></Link>
     </div>
-  );
+  )
 }
-
-export default twist;

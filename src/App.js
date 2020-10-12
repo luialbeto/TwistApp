@@ -9,6 +9,7 @@ import hour from './pages/hour';
 import map from './pages/map';
 import sucess from './pages/sucess';
 import twist from './pages/twist';
+import search from './pages/seach'
 import './App.css';
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
             <Route path="/sucess" component={sucess} />
             <Route path="/twist" component={twist} />
             <Route path="/calendar" component={Calendar} />
+            <Route path="/search" component={search} />
           </Switch>
         </BrowserRouter>
       </Provider>
