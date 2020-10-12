@@ -8,8 +8,7 @@ export default function search() {
  console.log('ok')
   return (
     <div className="container">
-      <img src={logo} alt=""/>
-      <h2 id="logo-1">Twist<span id="logo-2">App</span></h2>
+      <h2 id="logo-1"><img src={logo} alt=""/>Twist<span id="logo-2">App</span></h2>
       <h2>Qual Serviço Deseja?</h2>
       <input type="text" name="services" placeholder="Serviço"/>
       <br/>

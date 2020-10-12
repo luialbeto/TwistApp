@@ -21,16 +21,33 @@
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
 } */
+#logo {
+}
 
-img {
-  background: #fff;
+h2 {
+}
+
+#title {
+  margin-top: 80px;
+}
+
+#mic {
+  background: #862e47;
   border-radius: 50%;
   border-color: #474a51;
   padding: 40px;
   width: 40px;
   height: 40;
+  cursor: pointer;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 
-img :hover {
+#mic :hover {
   background-color: crimson;
+}
+
+a {
+  text-decoration: none;
+  color: #862e47;
 }
