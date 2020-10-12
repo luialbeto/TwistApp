@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 function AudioAsk() {
-  const [audio, setAud] = useState();
+  const [voice, setVoice] = useState();
 
   return (
     <div>
