@@ -20,3 +20,7 @@ Gleice      - Business
 
 
 #### https://youtu.be/EgV-AdYa2jg
+
+## FIGMA
+https://www.figma.com/file/1eRWPLFU6u3WYFbOKFNMh5/Hackathon-GetNet?node-id=1%3A5
+
