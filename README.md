@@ -5,6 +5,10 @@
 ## App criado na maratona HACKATHON GETNET (SHAWEE) para solucionar dor do MEI em período pós-quarentena
 Criado em React, responsivo e com fácil visualização
 
+
+#### https://youtu.be/EgV-AdYa2jg
+
+
 # Time
 Time formado por 5 integrantes:
 
@@ -19,7 +23,6 @@ Isabella    - Designer
 Gleice      - Business
 
 
-#### https://youtu.be/EgV-AdYa2jg
 
 ## FIGMA
 https://www.figma.com/file/1eRWPLFU6u3WYFbOKFNMh5/Hackathon-GetNet?node-id=1%3A5
