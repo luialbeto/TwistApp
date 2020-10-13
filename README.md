@@ -25,5 +25,9 @@ Gleice      - Business
 
 
 ## FIGMA
-https://www.figma.com/file/1eRWPLFU6u3WYFbOKFNMh5/Hackathon-GetNet?node-id=1%3A5
+Navegação Figma Usuário Final: 
+https://www.figma.com/proto/1eRWPLFU6
+
+Navegação Figma Empreendedor:
+https://www.figma.com/proto/1eRWPLFU6
 
